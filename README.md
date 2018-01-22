@@ -1,5 +1,5 @@
 # Free Blogger Theme
-Bootstrap, Search Engine Optimized (SEO), Social Media Optimized (SMO), AMP Theme for Bloggers
+W3.CSS responsive technology, Search Engine Optimized (SEO), Social Media Optimized (SMO), AMP Theme for Bloggers
 
 
 ## Features of This Blogger Theme ( Blogger Template )
