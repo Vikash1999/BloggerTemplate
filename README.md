@@ -6,10 +6,11 @@ Bootstrap, Search Engine Optimized (SEO), Social Media Optimized (SMO), AMP Them
 ### -> W3.CSS responsive CSS-powered technology ( created by https://www.w3schools.com/w3css/ )
 ### -> SEO optimized for Search Engines using breadcrumb navigation, meta tags, keywords for each page dynamically,.. and some other SEO features
 ### -> Social Media Optimized i.e image sizes, include sharing buttons,.. etc
-### -> AMP to cache webpages on Google Cache to boost the pagespeed.
+### -> AMP to cache webpages on Google Cache to boost the page-speed.
 ### -> Greate design with eye-friendly colored and attractive combinations at the same time.
 ### -> Ad-places ( ready to use AdSense places )
 ### -> Good comment section to let visitors love to comment. ( that's improve the Google rank )
+### -> Material Design ( reference: https://material.io/ )
 
 
 ### © All Rights Received. Created for www.AbanoubHanna.com as the main theme
