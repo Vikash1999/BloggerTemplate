@@ -579,18 +579,7 @@ data-ad-slot=&quot;xxxxxxxxxx&quot;&gt;</b:widget-setting>
 <div class='disqus-comments' id='disqus_comments'>
 <div class='komentar'><h2>Write A Comment</h2></div>
 <div class='clear'/>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-<amp-iframe expr:src='&quot;https://cdn.rawgit.com/blanter/amp/master/amp-disqus.html?shortname=blanteroid&amp;url=&quot; + data:blog.canonicalUrl' frameborder='0' height='300' layout='responsive' resizable='resizable' sandbox='allow-scripts allow-same-origin allow-modals allow-popups' width='600'>
+<amp-iframe expr:src='&quot;https://cdn.rawgit.com/DevAbanoub/BloggerTemplate/1f9f4f63/amp-disqus.html?shortname=abanoub&amp;url=&quot; + data:blog.canonicalUrl' frameborder='0' height='300' layout='responsive' resizable='resizable' sandbox='allow-scripts allow-same-origin allow-modals allow-popups' width='600'>
 <div aria-label='Disqus Comments' overflow='' role='button' tabindex='0'>Disqus تعليقات</div>
 </amp-iframe>
 </div>
